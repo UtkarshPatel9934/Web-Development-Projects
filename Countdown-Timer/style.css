@@ -1,0 +1,30 @@
+body{
+	background-color: bisque;
+}
+#Countown_Container{
+	width: 100%;
+}
+#Countown_Card{
+	width: 100%;
+	margin: 0 auto;
+	background-color: bisque;
+}
+#Countown_Card_body{
+	width: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 10px;
+	font-size: 50px;
+	text-align: center;
+}
+.number{
+	font-weight: bold;
+}
+h3{
+	text-align: center;
+}
+#header{
+	text-align: center;
+	font-size: 70px;
+}
